@@ -1,0 +1,18 @@
+@charset "utf8";
+body{
+    background-color: lightgoldenrodyellow;
+}
+h1{
+    background-color: goldenrod;
+    color: maroon;
+    text-decoration: underline;
+    
+}
+h2{
+    color: maroon;
+}
+
+a{
+ display: flex;
+ justify-content:right;
+}
